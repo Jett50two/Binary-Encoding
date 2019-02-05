@@ -1,9 +1,9 @@
 # Navigation
-[Binary-Encoding](https://github.com/Jett50two/Binary-Encryption/blob/master/README.md#binary-encoding), 
-[Help](https://github.com/Jett50two/Binary-Encryption/blob/master/README.md#help), 
-[YouTube](https://github.com/Jett50two/Binary-Encryption/blob/master/README.md#my-youtube-video-click-image-to-watch), 
-[Quick Guide](https://github.com/Jett50two/Binary-Encryption/blob/master/README.md#encoding-program-quick-guide), 
-[About Me](https://github.com/Jett50two/Binary-Encryption/blob/master/README.md#about-me)
+[Binary-Encoding](https://github.com/Jett50two/Binary-Encoding/blob/master/README.md#binary-encoding), 
+[Help](https://github.com/Jett50two/Binary-Encoding/blob/master/README.md#help), 
+[YouTube](https://github.com/Jett50two/Binary-Encoding/blob/master/README.md#my-youtube-video-click-image-to-watch), 
+[Quick Guide](https://github.com/Jett50two/Binary-Encoding/blob/master/README.md#encoding-program-quick-guide), 
+[About Me](https://github.com/Jett50two/Binary-Encoding/blob/master/README.md#about-me)
 
 # Binary-Encoding
 A better version of my encoding program.
