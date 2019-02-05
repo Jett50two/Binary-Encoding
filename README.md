@@ -1,22 +1,22 @@
 # Navigation
-[Binary-Encryption](https://github.com/Jett50two/Binary-Encryption/blob/master/README.md#binary-encryption), 
+[Binary-Encoding](https://github.com/Jett50two/Binary-Encryption/blob/master/README.md#binary-encoding), 
 [Help](https://github.com/Jett50two/Binary-Encryption/blob/master/README.md#help), 
 [YouTube](https://github.com/Jett50two/Binary-Encryption/blob/master/README.md#my-youtube-video-click-image-to-watch), 
-[Quick Guide](https://github.com/Jett50two/Binary-Encryption/blob/master/README.md#encryption-program-quick-guide), 
+[Quick Guide](https://github.com/Jett50two/Binary-Encryption/blob/master/README.md#encoding-program-quick-guide), 
 [About Me](https://github.com/Jett50two/Binary-Encryption/blob/master/README.md#about-me)
 
-# Binary-Encryption
-A better version of my encryption program.
+# Binary-Encoding
+A better version of my encoding program.
 
 # Help
-For a quick reference on how the program works after downloaded the project. Check out Encryption Program Quick Guide.txt.
+For a quick reference on how the program works after downloaded the project. Check out encoding Program Quick Guide.txt.
 
 # My YouTube Video (Click image to watch)
 [![picture alt](https://i.ytimg.com/vi/_sJW3sZ8vyM/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAlRmguYshA5vZJXE2eEXzqhWVKvw)](https://www.youtube.com/watch?v=_sJW3sZ8vyM&ab_channel=Jett50two) 
 
 Direct Link: https://www.youtube.com/watch?v=_sJW3sZ8vyM&ab_channel=Jett50two
 
-# Encryption Program Quick Guide
+# Encoding Program Quick Guide
 <details>
   <summary>Concept</summary>
   <p>Set A-z to binary strings.</p>
