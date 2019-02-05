@@ -1,6 +1,9 @@
 # Navigation
-[Binary-Encryption](https://github.com/Jett50two/Binary-Encryption/blob/master/README.md#binary-encryption)
-[Help](https://github.com/Jett50two/Binary-Encryption/blob/master/README.md#help)
+[Binary-Encryption](https://github.com/Jett50two/Binary-Encryption/blob/master/README.md#binary-encryption), 
+[Help](https://github.com/Jett50two/Binary-Encryption/blob/master/README.md#help), 
+[YouTube](https://github.com/Jett50two/Binary-Encryption/blob/master/README.md#my-youtube-video-click-image-to-watch), 
+[Quick Guide](https://github.com/Jett50two/Binary-Encryption/blob/master/README.md#encryption-program-quick-guide), 
+[About Me](https://github.com/Jett50two/Binary-Encryption/blob/master/README.md#about-me)
 
 # Binary-Encryption
 A better version of my encryption program.
@@ -89,11 +92,13 @@ Direct Link: https://www.youtube.com/watch?v=_sJW3sZ8vyM&ab_channel=Jett50two
       8=70 Binary = 111101 
       9=71 Binary = 111110 
       'white space' =72 Binary = 111111 
-  </details>
-  </p>
+</details>
+</p>
   <details>
     <summary>Other Notes</summary>
     <p>If you go this far, add a 0 to all old binary statements</p>
     <p>=64 Binary = 1000000</p>
-  </details>
-  </p>
+</details>
+</p>
+
+# About Me
