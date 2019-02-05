@@ -1,4 +1,8 @@
-# Binary-Encryption-test
+# Navigation
+[Binary-Encryption](https://github.com/Jett50two/Binary-Encryption/blob/master/README.md#binary-encryption)
+[Help](https://github.com/Jett50two/Binary-Encryption/blob/master/README.md#help)
+
+# Binary-Encryption
 A better version of my encryption program.
 
 # Help
