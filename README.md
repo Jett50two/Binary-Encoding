@@ -1,11 +1,11 @@
 # Navigation
-[Binary-Encoding](https://github.com/Jett50two/Binary-Encoding/blob/master/README.md#binary-encoding)
+[Binary-Encoding](#binary-encoding)
 <br>
-[Help](https://github.com/Jett50two/Binary-Encoding/blob/master/README.md#help)
+[Help](#help)
 <br>
-[YouTube](https://github.com/Jett50two/Binary-Encoding/blob/master/README.md#my-youtube-video-click-image-to-watch)
+[YouTube](#my-youtube-video-click-image-to-watch)
 <br>
-[Quick Guide](https://github.com/Jett50two/Binary-Encoding/blob/master/README.md#encoding-program-quick-guide)
+[Quick Guide](#encoding-program-quick-guide)
 <br>
 <br>
 
