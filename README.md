@@ -1,28 +1,30 @@
 # Navigation
-[Binary-Encoding](https://github.com/Jett50two/Binary-Encoding/blob/master/README.md#binary-encoding), 
-</br>
-[Help](https://github.com/Jett50two/Binary-Encoding/blob/master/README.md#help), 
-</br>
-[YouTube](https://github.com/Jett50two/Binary-Encoding/blob/master/README.md#my-youtube-video-click-image-to-watch), 
-</br>
-[Quick Guide](https://github.com/Jett50two/Binary-Encoding/blob/master/README.md#encoding-program-quick-guide), 
-</br>
-</br>
+[Binary-Encoding](https://github.com/Jett50two/Binary-Encoding/blob/master/README.md#binary-encoding)
+<br>
+[Help](https://github.com/Jett50two/Binary-Encoding/blob/master/README.md#help)
+<br>
+[YouTube](https://github.com/Jett50two/Binary-Encoding/blob/master/README.md#my-youtube-video-click-image-to-watch)
+<br>
+[Quick Guide](https://github.com/Jett50two/Binary-Encoding/blob/master/README.md#encoding-program-quick-guide)
+<br>
+<br>
 
 # Binary-Encoding
-A better version of my encoding program.
-</br>
-</br>
+This takes text input and convert that input into a binary string. It does not use ASCII code so it can be customized.
+<br>
+After getting the binary values, the program changes the binary 1's and 0's to random numbers between 0 and 9 (explained more in [Quick Guide](https://github.com/Jett50two/Binary-Encoding/blob/master/README.md#encoding-program-quick-guide)) 
+<br>
+<br>
 
 # Help
-For a quick reference on how the program works after downloaded the project. Check out [encoding Program Quick Guide.txt](https://github.com/Jett50two/Binary-Encoding/blob/master/src/Encoding%20Program%20Quick%20Guide.txt) (it has all the same information as the quick guide on here)..
+For a quick reference on how the program works after downloaded the project. Check out [encoding Program Quick Guide.txt](https://github.com/Jett50two/Binary-Encoding/blob/master/src/Encoding%20Program%20Quick%20Guide.txt) (it has all the same information as the quick guide on here, just doesn't look as nice).
 </br>
 </br>
 
 # My YouTube Video (Click image to watch)
 [![picture alt](https://i.ytimg.com/vi/_sJW3sZ8vyM/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAlRmguYshA5vZJXE2eEXzqhWVKvw)](https://www.youtube.com/watch?v=_sJW3sZ8vyM&ab_channel=Jett50two) 
-</br>
-</br>
+<br>
+<br>
 
 # Encoding Program Quick Guide
 <details>
