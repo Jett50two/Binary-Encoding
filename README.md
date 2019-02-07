@@ -7,12 +7,14 @@
 <br>
 [Quick Guide](#encoding-program-quick-guide)
 <br>
+[Special Thanks](#special-thanks)
+<br>
 <br>
 
 # Binary-Encoding
-This takes text input and convert that input into a binary string. It does not use ASCII code so it can be customized.
+This takes text input and converts that input into a binary string. It does not use ASCII code so it can be customized.
 <br>
-After getting the binary values, the program changes the binary 1's and 0's to random numbers between 0 and 9 (explained more in [Quick Guide](https://github.com/Jett50two/Binary-Encoding/blob/master/README.md#encoding-program-quick-guide)) 
+After getting the binary values, the program changes the binary 1's and 0's too random numbers between 0 and 9 (explained more in [Quick Guide](https://github.com/Jett50two/Binary-Encoding/blob/master/README.md#encoding-program-quick-guide)) 
 <br>
 <br>
 
@@ -112,3 +114,14 @@ For a quick reference on how the program works after downloaded the project. Che
   <p>For example,<br>*=64 Binary = 1000000<br>that would mean that<br>A=10 Binary = 0000001 instead of 000001<br>It's one more '0'. Hard to see but could cause hours of time debugging your code.</p>
 </details>
 </p>
+<br>
+<br>
+
+# Special Thanks
+Thank you to:<br>
+Sv443: <br> 
+&nbsp; &nbsp; For helping me with bettering my formatting of the README.md. <br>
+stefnotch: <br>
+&nbsp; &nbsp; For pointing out that my code was actually encoding and not encryption. <br>
+Cooly: <br>
+&nbsp; &nbsp; For pointing out that I could have just used "Integer.toBinaryString(character...);" So if anybody want's to optimize the code better, use that function instead of my binary values.
