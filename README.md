@@ -125,3 +125,7 @@ stefnotch: <br>
 &nbsp; &nbsp; For pointing out that my code was actually encoding and not encryption. <br>
 Cooly: <br>
 &nbsp; &nbsp; For pointing out that I could have just used "Integer.toBinaryString(character...);" So if anybody want's to optimize the code better, use that function instead of my binary values.
+<br>
+<br>
+
+[Back To Top](#navigation)
